@@ -1,0 +1,8 @@
+{
+  "name": "Remix Coorg Wildscape — Kodagu Tourism \u0026 Off-Road Jeep Adventures",
+  "description": "Discover Coorg\u0027s misty peaks, off-road 4x4 jeep safaris, heritage coffee estate stays, waterfalls, and hidden Kodagu landscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

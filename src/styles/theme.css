@@ -1,0 +1,36 @@
+/* Brand & Surface Tokens for Coorg Wildscape */
+:root {
+  --cw-canvas-light: #f7f6f2;
+  --cw-surface-light: #ffffff;
+  --cw-surface-muted: #eeece5;
+  --cw-ink-primary: #161b17;
+  --cw-ink-secondary: #4e5850;
+  --cw-border-light: rgba(22, 27, 23, 0.1);
+
+  --cw-canvas-dark: #0c140f;
+  --cw-surface-dark: #131e17;
+  --cw-ink-light: #f2f1ec;
+  --cw-ink-light-muted: #a6b0a8;
+  --cw-border-dark: rgba(242, 241, 236, 0.12);
+
+  --cw-accent-amber: #d95d24;
+  --cw-accent-amber-hover: #c04d19;
+  --cw-accent-forest: #1f4d36;
+
+  --font-display: 'Cormorant Garamond', Georgia, serif;
+  --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+}
+
+.font-display {
+  font-family: var(--font-display);
+}
+
+.font-sans {
+  font-family: var(--font-sans);
+}
+
+.font-mono-tabular {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+}
